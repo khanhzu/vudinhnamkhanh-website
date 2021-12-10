@@ -1,0 +1,14 @@
+[
+  {
+    "to": "/",
+    "name": "Articles"
+  },
+  {
+    "to": "/projects",
+    "name": "Projects"
+  },
+  {
+    "to": "/talks",
+    "name": "Talks"
+  }
+]
